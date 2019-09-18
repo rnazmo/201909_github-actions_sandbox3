@@ -1,10 +1,10 @@
-# github-actions_sandbox
+# github-actions_sandbox3 (public repo)
 
 [![Test](https://github.com/rnazmo/github-actions_sandbox3/workflows/Test/badge.svg)](https://github.com/rnazmo/github-actions_sandbox/actions)
 [![Lint](https://github.com/rnazmo/github-actions_sandbox3/workflows/Lint/badge.svg)](https://github.com/rnazmo/github-actions_sandbox/actions)
 
 [![Lint](https://github.com/rnazmo/github-actions_sandbox3/workflows/Lint%20and%20Test/badge.svg)](https://github.com/rnazmo/github-actions_sandbox/actions)
-↑`https://github.com/rnazmo/github-actions_sandbox3/workflows/Lint%20and%20Test/badge.svg`
+←`https://github.com/rnazmo/github-actions_sandbox3/workflows/Lint%20and%20Test/badge.svg`
 
 ## Status Badge
 
